@@ -8,3 +8,4 @@ colours what are pretty
 ## Greens
 ![#1c403c](https://placehold.it/15/1c403c/000000?text=+) `#1c403c - dark aqua, calm af`
 ## Blues
+![#1a31ab](https://placehold.it/15/1a31ab/000000?text=+) `#1a31ab - nautical blue, deep like the ocean`

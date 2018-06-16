@@ -14,3 +14,4 @@ colours what are pretty
 ## Blues
 ![#1a31ab](https://placehold.it/15/1a31ab/000000?text=+) `#1a31ab - nautical blue, deep like the ocean` - RF  
 ![#c4ebf1](https://placehold.it/15/c4ebf1/000000?text=+) `#c4ebf1 - light baby blue, pretty pretty` - RF
+![#7EC1D9](https://placehold.it/15/7EC1D9/000000?text=+) `#7EC1D9 - the colour of my hat, it's a nice hat` - RF

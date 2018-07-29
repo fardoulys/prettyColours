@@ -9,6 +9,7 @@ colours what are pretty
 ![#FE7C35](https://placehold.it/15/FE7C35/000000?text=+) `#FE7C35 - burnt orange, SES is here` - SH  
 ## Pinks
 ![#D45275](https://placehold.it/15/D45275/000000?text=+) `#D45275 - cranberry, split wine` - SH  
+![#b78b8c](https://placehold.it/15/b78b8c/000000?text=+) `#b78b8c - fleshy pink, like flesh, but pink` - RF  
 ## Yellows
 ![#ddac49](https://placehold.it/15/ddac49/000000?text=+) `#ddac49 - wes anderson mustard, retro` - RF  
 ![#FFFB64](https://placehold.it/15/FFFB64/000000?text=+) `#FFFB64 - laser lemon, mustard bottle` - SH  

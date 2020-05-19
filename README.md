@@ -31,6 +31,6 @@ colours what are pretty
 ![#6082B6](https://placehold.it/15/6082B6/000000?text=+) `#6082B6 - Glaucous, the word for that powdery stuff on the outside of grapes` - RF  
 ## Whites
 ![#F6F1E3](https://placehold.it/15/F6F1E3/000000?text=+) `#F6F1E3 - Giselle's Hair, Giselle's Hair` - SH  
-![#FEF6CC](https://placehold.it/15/FEF6CC/000000?text=+) `#FEF6CC - Eburnean, like ivory` - RF  
 ## Creams
 ![#FADFAE](https://placehold.it/15/FADFAE/000000?text=+) `#FADFAE - Sarcoline, "flesh coloured"` - RF  
+![#FEF6CC](https://placehold.it/15/FEF6CC/000000?text=+) `#FEF6CC - Eburnean, like ivory` - RF  
